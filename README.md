@@ -1,2 +1,2 @@
 # hello-world
-Test repository.  LAPaul
+This repository will be used for a GitHub tutorial.  LAPaul
